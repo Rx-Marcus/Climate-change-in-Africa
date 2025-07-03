@@ -10,6 +10,7 @@
 - [Visualization](#visualization)
 - [Key Insights](#key-insights)
 - [Recommendations](#recommendations)
+- [Limitations](#limitations)
 
 ### Project Overview 📽️
 ---
@@ -86,3 +87,8 @@ Four (4) DAX measures were created to enhance analysis
 2.	Align national policies with these observed warming trends to enhance climate resilience.  
 3.	Implement effective climate action policies to tackle the increasing long-term temperature trends in Africa.  
 4.	Consider seasonal patterns in the planning of agriculture, energy, and health initiatives.
+
+### Limitations 
+- Only 20 African countries and 53 cities were included, which may not fully represent the continent’s climate diversity.
+- The dataset does not include temperature records beyond 2013, which limits the analysis of more recent climate trends and ongoing global warming.
+- Confidence intervals in earlier decades are wider, indicating lower data reliability due to fewer measurement stations or manual recording methods.
