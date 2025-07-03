@@ -28,7 +28,7 @@ This project aims to analyze historical temperature patterns across various regi
 
 ### Data source
 
-The dataset used for this project is the "GlobalLandTemperaturesByCity.xlsx" obtained from [kaggle](https://kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download)
+The dataset used for this project is the "GlobalLandTemperaturesByCity.csv" obtained from [kaggle](https://kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?resource=download)
 
 ### Tools
 
