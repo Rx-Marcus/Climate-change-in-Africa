@@ -2,7 +2,7 @@
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Business Objectives](#business-objectives)
+- [Project Objectives](#project-objectives)
 - [Data source](#data-source)
 - [Tools](#tools)
 - [Data cleaning and preparation](#data-cleaning-and-preparation)
@@ -17,7 +17,7 @@
 
 This project aims to analyze historical temperature patterns across various regions in Africa from 1900 to 2013. The goal is to uncover long-term trends, regional variations, and seasonal patterns to support data-driven insights for environmental planning, climate awareness, and policy recommendations.
 
-### Business Objectives
+### Project Objectives
 1.	What is the long-term trend of average temperatures across Africa from 1900 to 2013?
 2.	How much has the average temperature increased per decade across the African continent?
 3.	What is the overall average temperature recorded across all selected African countries and cities?
